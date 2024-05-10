@@ -1,2 +1,2 @@
 # Data-Analyst-Project
-T-his is my data analyst portfolio.
+This is my data analyst portfolio.
