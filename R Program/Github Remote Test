@@ -1,0 +1,6 @@
+library(dplyr)
+library(tidyverse)
+
+df %>% select(1:5) %>%
+   filter(age > 25) %>%
+   summarise(mean = avg(age))
